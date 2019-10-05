@@ -1,3 +1,3 @@
-# Feedback House - Developer Portal
+# Feedback House - Documents Portal
 
-Content is here [Developer Poral](https://developers.feedback.house)
+Content is here [Documents Poral](https://documents.feedback.house)
