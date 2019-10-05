@@ -1,0 +1,20 @@
+{
+  "docs": {
+    "Getting Started": ["getting-started"],
+    "Single Sign On": ["single-sign-on-getting-started"]
+  },
+  "modules": {
+    "Feedback Contínuo": [
+        "feedback/feedback-give", 
+        "feedback/feedback-view"],
+    "Avaliação de Desempenho": [
+        "api-user-update-or-create", 
+        "api-user-get"],
+    "Metas": [
+        "api-area-update-or-create", 
+        "api-area-get"],
+    "9Box": [
+        "api-business-division-update-or-create", 
+        "api-business-division-get"]
+  }
+}
