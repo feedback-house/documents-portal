@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.feedback.house/blog</id>
+    <title>Feedback House | Documentação Blog</title>
+    <updated>2019-10-24T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://docs.feedback.house/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Feedback House | Documentação news and events.</subtitle>
+    <logo>https://docs.feedback.house/img/favicon.ico</logo>
+    <rights>Copyright © Feedback House / Entria</rights>
+    <entry>
+        <title type="html"><![CDATA[Novo Módulo 9Box]]></title>
+        <id>https://docs.feedback.house/blog/2019/10/24/novo-modulo-9box.html</id>
+        <link href="https://docs.feedback.house/blog/2019/10/24/novo-modulo-9box.html">
+        </link>
+        <updated>2019-10-24T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>9Box é um importante processo de gestão de pessoas, porém o processo de gerenciar 9box é algo brutal para gestores. A partir de agora gestores podem contar com uma poderosa ferramenta que gerencia todo o ciclo de vida de um processo de avaliaçõa de d...</p>]]></summary>
+        <author>
+            <name>Feedback House</name>
+            <uri>https://twitter.com/feedback_house</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melhorias no fluxo de 1a1]]></title>
+        <id>https://docs.feedback.house/blog/2019/04/26/melhoriarias-no-fluxo-1a1.html</id>
+        <link href="https://docs.feedback.house/blog/2019/04/26/melhoriarias-no-fluxo-1a1.html">
+        </link>
+        <updated>2019-04-26T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Agora líder e liderado podem agendar reuniões diretamente na plataforma. Além disto quando você agenda um 1a1 pela plataforma a plataforma automaticamente envia um lembrete de agenda para o seu calendário.</p> ]]></summary>
+        <author>
+            <name>Feedback House</name>
+            <uri>https://twitter.com/feedback_house</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novo portal de Documentação da Feedback House]]></title>
+        <id>https://docs.feedback.house/blog/2019/01/01/portal-documentacao.html</id>
+        <link href="https://docs.feedback.house/blog/2019/01/01/portal-documentacao.html">
+        </link>
+        <updated>2019-01-01T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Hoje lançamos o novo portal de documentação da Feedback. O portal está recheado de arquivos, manuais e vídeos para ajudar e melhorar sua jornada!</p> <p>Regularmnete iremos atualizar o portal com manuais e dados para tornar ainda melhor sua experiência. Com...</p>]]></summary>
+        <author>
+            <name>Feedback House</name>
+            <uri>https://twitter.com/feedback_house</uri>
+        </author>
+    </entry>
+</feed>

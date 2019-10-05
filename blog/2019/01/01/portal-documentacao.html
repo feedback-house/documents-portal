@@ -1,0 +1,59 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Novo portal de Documentação da Feedback House · Feedback House | Documentação</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Hoje lançamos o novo portal de documentação da Feedback. O portal está recheado de arquivos, manuais e vídeos para ajudar e melhorar sua jornada!"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Novo portal de Documentação da Feedback House · Feedback House | Documentação"/><meta property="og:type" content="website"/><meta property="og:url" content="https://docs.feedback.house/blog/2019/01/01/portal-documentacao"/><meta property="og:description" content="Hoje lançamos o novo portal de documentação da Feedback. O portal está recheado de arquivos, manuais e vídeos para ajudar e melhorar sua jornada!"/><meta property="og:image" content="https://docs.feedback.house/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://docs.feedback.house/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://docs.feedback.house/blog/atom.xml" title="Feedback House | Documentação Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://docs.feedback.house/blog/feed.xml" title="Feedback House | Documentação Blog RSS Feed"/><script src="/js/scrollSpy.js"></script><link rel="stylesheet" href="/css/main.css"/><script src="/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/"><img class="logo" src="/img/favicon.ico" alt="Feedback House | Documentação"/><h2 class="headerTitleWithLogo">Feedback House | Documentação</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/docs/getting-started" target="_self">Primeiro Acesso</a></li><li class=""><a href="/docs/feedback/feedback-give" target="_self">Módulos</a></li><li class=""><a href="/help" target="_self">Ajuda</a></li><li class="siteNavGroupActive"><a href="/blog/" target="_self">Novidades</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/blog/2019/10/24/novo-modulo-9box">Novo Módulo 9Box</a></li><li class="navListItem"><a class="navItem" href="/blog/2019/04/26/melhoriarias-no-fluxo-1a1">Melhorias no fluxo de 1a1</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/blog/2019/01/01/portal-documentacao">Novo portal de Documentação da Feedback House</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="lonePost"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/blog/2019/01/01/portal-documentacao">Novo portal de Documentação da Feedback House</a></h1><p class="post-meta">January 1, 2019</p><div class="authorBlock"><p class="post-authorName"><a href="https://twitter.com/feedback_house" target="_blank" rel="noreferrer noopener">Feedback House</a></p></div></header><div><span><p>Hoje lançamos o novo portal de documentação da Feedback. O portal está recheado de arquivos, manuais e vídeos para ajudar e melhorar sua jornada!</p>
+<p>Regularmnete iremos atualizar o portal com manuais e dados para tornar ainda melhor sua experiência. Como sempre se precisar de <a href="/help">ajuda</a> é só chamar.</p>
+</span></div></div><div class="blogSocialSection"></div></div><div class="blog-recent"><a class="button" href="/blog">Recent Posts</a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><div><h5>Documentação</h5><a href="/docs/getting-started">Primeiro acesso - Colaborador</a><a href="/docs/api-getting-started">Primeiro acesso - Administrador</a></div><div><h5>Community</h5><a href="https://feedback.house">Feedback House</a><a href="https://twitter.com/feedback_house" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>Outros</h5><a href="https://developers.feedback.house">Documentação para Desenvolvedores</a><a href="/blog">Novidades da Plataforma</a></div></section><section class="copyright">Copyright © Feedback House / Entria</section></footer></div></body></html>

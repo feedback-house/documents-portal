@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Feedback House | Documentação Blog</title>
+        <link>https://docs.feedback.house/blog</link>
+        <description>The best place to stay up-to-date with the latest Feedback House | Documentação news and events.</description>
+        <lastBuildDate>Thu, 24 Oct 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Feedback House | Documentação Blog</title>
+            <url>https://docs.feedback.house/img/favicon.ico</url>
+            <link>https://docs.feedback.house/blog</link>
+        </image>
+        <copyright>Copyright © Feedback House / Entria</copyright>
+        <item>
+            <title><![CDATA[Novo Módulo 9Box]]></title>
+            <link>https://docs.feedback.house/blog/2019/10/24/novo-modulo-9box.html</link>
+            <guid>https://docs.feedback.house/blog/2019/10/24/novo-modulo-9box.html</guid>
+            <pubDate>Thu, 24 Oct 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>9Box é um importante processo de gestão de pessoas, porém o processo de gerenciar 9box é algo brutal para gestores. A partir de agora gestores podem contar com uma poderosa ferramenta que gerencia todo o ciclo de vida de um processo de avaliaçõa de d...</p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Melhorias no fluxo de 1a1]]></title>
+            <link>https://docs.feedback.house/blog/2019/04/26/melhoriarias-no-fluxo-1a1.html</link>
+            <guid>https://docs.feedback.house/blog/2019/04/26/melhoriarias-no-fluxo-1a1.html</guid>
+            <pubDate>Fri, 26 Apr 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Agora líder e liderado podem agendar reuniões diretamente na plataforma. Além disto quando você agenda um 1a1 pela plataforma a plataforma automaticamente envia um lembrete de agenda para o seu calendário.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Novo portal de Documentação da Feedback House]]></title>
+            <link>https://docs.feedback.house/blog/2019/01/01/portal-documentacao.html</link>
+            <guid>https://docs.feedback.house/blog/2019/01/01/portal-documentacao.html</guid>
+            <pubDate>Tue, 01 Jan 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Hoje lançamos o novo portal de documentação da Feedback. O portal está recheado de arquivos, manuais e vídeos para ajudar e melhorar sua jornada!</p> <p>Regularmnete iremos atualizar o portal com manuais e dados para tornar ainda melhor sua experiência. Com...</p>]]></description>
+        </item>
+    </channel>
+</rss>
