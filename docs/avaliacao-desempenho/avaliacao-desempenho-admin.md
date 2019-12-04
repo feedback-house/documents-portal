@@ -1,17 +1,10 @@
 ---
-id: api-area-update-or-create
-title: Area API | Update or Create
+id: avaliacao-desempenho-admin
+title: Avaliação de Desempenho | Aministrador
+sidebar_label: Administrador
 ---
 
-## API Summary
-
-| Endpoint | **https://api.feedback.house/api/planning/v1/area/update-or-create** |
-|----------|-------------------------------------------------------------|
-| Method   | **POST** |
-| Format   | **JSON** |
-| Idempotent | **YES**, using primary keys |
-
-## API details
+## Como faço para responder minha autoavaliação?
 
 This endpoint supports creating or updating `Areas`. 
 

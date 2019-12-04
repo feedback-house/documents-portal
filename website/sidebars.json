@@ -8,8 +8,11 @@
         "feedback/feedback-give", 
         "feedback/feedback-view"],
     "Avaliação de Desempenho": [
-        "api-user-update-or-create", 
-        "api-user-get"],
+        "avaliacao-desempenho/avaliacao-desempenho-user", 
+        "avaliacao-desempenho/avaliacao-desempenho-gestor", 
+        "avaliacao-desempenho/avaliacao-desempenho-admin"
+
+      ],
     "Metas": [
         "api-area-update-or-create", 
         "api-area-get"],
