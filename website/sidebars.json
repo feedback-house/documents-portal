@@ -5,13 +5,12 @@
   },
   "modules": {
     "Feedback Contínuo": [
-        "feedback/feedback-give", 
-        "feedback/feedback-view"],
+        "feedback/feedback-user", 
+        "feedback/feedback-manager"],
     "Avaliação de Desempenho": [
         "avaliacao-desempenho/avaliacao-desempenho-user", 
         "avaliacao-desempenho/avaliacao-desempenho-gestor", 
         "avaliacao-desempenho/avaliacao-desempenho-admin"
-
       ],
     "Metas": [
         "api-area-update-or-create", 

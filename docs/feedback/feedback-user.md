@@ -1,15 +1,15 @@
 ---
-id: feedback-view
-title: Como dar visualizar um Feedback Recebido
+id: feedback-user
+title: Como dar um Feedback ?
+sidebar_label: Colaborador
 ---
 
 
 This endpoint allows querying and retrieving `Area` data. This API will return the most recent and updated `Area` as possible. Given the size of your company you may need to paginate this API in other to retrieve all resources.
 
-### Response 
+### What is Lorem Ipsum? 
 
 This API will return multiple areas in an array of `Area` (*in the format of an array of objects*). 
-
 
 When no areas are found the array will be empty
 ```json

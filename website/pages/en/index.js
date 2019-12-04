@@ -142,7 +142,7 @@ class Index extends React.Component {
           {
             content:
               `**Dúvidas mais comuns:**` + 
-              `<br>Como [dar um Feedback](/docs/feedback/feedback-give.html) para outro colaborador da minha empresa?` +
+              `<br>Como [dar um Feedback](/docs/feedback/feedback-user.html) para outro colaborador da minha empresa?` +
               `<br>Como vejo [Feedbacks recebidos](/docs/single-sign-on-getting-started.html)?` +
               `<br><br>**Se você é gestor:**` +
               `<br>Como vejo [Feedbacks da minha equipe](/docs/single-sign-on-getting-started.html)?` +

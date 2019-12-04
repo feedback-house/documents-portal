@@ -28,7 +28,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'getting-started', label: 'Primeiro Acesso'},
-    {doc: 'feedback/feedback-give', label: 'Módulos'},
+    {doc: 'feedback/feedback-user', label: 'Módulos'},
     {page: 'help', label: 'Ajuda'},
     {blog: true, label: 'Novidades'},
   ],
